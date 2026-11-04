@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define SIZE 3
 
-float calcuateCharge(int hour);
+float calculateCharge(int hour);
 
 int main(void) {
 
