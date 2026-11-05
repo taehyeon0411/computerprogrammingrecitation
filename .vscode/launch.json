@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/taehyeon/Desktop/compuerProgramming recitation",
+      "program": "/Users/taehyeon/Desktop/compuerProgramming recitation/build/Debug/outDebug"
+    }
+  ]
+}

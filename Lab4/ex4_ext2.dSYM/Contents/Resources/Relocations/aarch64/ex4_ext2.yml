@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/taehyeon/Desktop/compuerProgramming recitation/Lab4/ex4_ext2'
+relocations:     []
+...
