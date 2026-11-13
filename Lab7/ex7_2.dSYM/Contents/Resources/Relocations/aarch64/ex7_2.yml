@@ -1,5 +1,9 @@
 ---
 triple:          'arm64-apple-darwin'
+<<<<<<< HEAD
 binary-path:     '/Users/taehyeon/Desktop/computerprogrammingrecitation-main/Lab7/ex7_2'
+=======
+binary-path:     '/Users/taehyeon/Desktop/compuerProgramming recitation/Lab7/ex7_2'
+>>>>>>> 38f6d1860b6d6dbd680eae7c84bfb1d87279a39e
 relocations:     []
 ...
